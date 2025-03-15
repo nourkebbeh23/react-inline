@@ -1,0 +1,88 @@
+
+.Navv{
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.Navv:hover{
+color:#fd7e14 ;
+}
+.back{
+
+  background-image: url(./assets/hero_bg_1.jpg);
+  width: 1400px;
+  height: 700px;
+  background-repeat: no-repeat;
+
+}
+
+.back1{
+  background-image: url(./assets/hero_bg_1.jpg);
+  width: 1400px;
+  height: 700px;
+  background-repeat: no-repeat;
+}
+
+
+
+.BBtn{
+  border: 1px solid #fd7e14;
+  color: #fd7e14;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+.BBtn:hover{
+  color: white;
+  background-color: #fd7e14;
+ 
+}
+.BBB{
+  color: white;
+  border: 1px solid white ;
+  padding: 15px;
+  border-radius: 5px;
+
+}
+.BBB:hover{
+  color: #fd7e14;
+  background-color: white;
+ 
+}
+
+
+.bv{
+  color:white;
+background-color:#fd7e14 ;
+padding: 15px;
+border-radius: 5px;
+}
+.bv:hover{
+  border: 1px solid #fd7e14;
+  color: #fd7e14;
+  background-color: white;
+}
+.ttag{
+  color:rgba(255, 255, 255, 0.5) ;
+  text-decoration: none;
+  display: block;
+}
+.ttag:hover{
+  color:  white;
+
+}
+
+svg{
+  margin: 3px;
+}
+.bvv{
+  color:white;
+background-color:#fd7e14 ;
+padding: 15px;
+border-radius: 5px;
+position: absolute;
+}
+.bvv:hover{
+  border: 1px solid #fd7e14;
+  color: #fd7e14;
+  background-color: white;
+}
